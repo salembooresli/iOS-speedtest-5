@@ -1,0 +1,15 @@
+
+/* Class = "UIButton"; normalTitle = "GREEN"; ObjectID = "5LA-i8-lAH"; */
+"5LA-i8-lAH.normalTitle" = "GREEN";
+
+/* Class = "UIButton"; normalTitle = "BLUE"; ObjectID = "NNt-ll-Ivo"; */
+"NNt-ll-Ivo.normalTitle" = "BLUE";
+
+/* Class = "UIButton"; normalTitle = "Yellow"; ObjectID = "Z4e-sV-B3g"; */
+"Z4e-sV-B3g.normalTitle" = "Yellow";
+
+/* Class = "UILabel"; text = "قم بالضغط على الزر لتغيير لون الخلفية"; ObjectID = "neR-se-MHv"; */
+"neR-se-MHv.text" = "قم بالضغط على الزر لتغيير لون الخلفية";
+
+/* Class = "UIButton"; normalTitle = "RED"; ObjectID = "oPu-Ej-SBd"; */
+"oPu-Ej-SBd.normalTitle" = "RED";
